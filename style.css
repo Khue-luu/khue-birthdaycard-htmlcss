@@ -1,0 +1,11 @@
+h1{
+    background-color: darksalmon;
+    border-radius: 30%;
+    font-family: "Sofadi One", system-ui;
+    font-weight: 100px;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+    position: static;
+    left: 700px;
+}
